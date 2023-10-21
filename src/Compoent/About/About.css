@@ -1,0 +1,10 @@
+.about{
+    background-color: #1abc9c;
+    color: #ffffff;
+    min-height: calc(100vh - 112px);
+}
+.fw-bold{
+    font-size: 16px;
+    font-weight:400;
+    margin:0px 0px 16px;
+}
